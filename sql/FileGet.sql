@@ -1,0 +1,1 @@
+SELECT SUBSTRING(file_data,1,1000) FROM file
