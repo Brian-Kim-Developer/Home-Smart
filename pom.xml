@@ -20,10 +20,10 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <INSTANCE_CONNECTION_NAME>homesmart-252419:northamerica-northeast1:homesmart-db</INSTANCE_CONNECTION_NAME>
-        <user>root</user>
-        <password>kgw35128032</password>
-        <database>homesmart</database>
+        <INSTANCE_CONNECTION_NAME>Protected</INSTANCE_CONNECTION_NAME>
+        <user>Protected</user>
+        <password>Protected</password>
+        <database>Protected</database>
     </properties>
 
     <dependencyManagement>
@@ -151,7 +151,7 @@
                 <version>1.9.76</version>
                 <configuration>
                     <enableJarClasses>false</enableJarClasses>
-                    <appId>homesmart-252419</appId>
+                    <appId>Protected</appId>
                     <version>1</version>
                 </configuration>
             </plugin>
